@@ -10,4 +10,5 @@ You have to: sign up, create a new namespace, go to namespace settings, add a to
 you just need an ESP8266+Arduino like controller and an MPU6050 Acceleration and Gyro Sensor
 
 # Libraries to include
-you need to download this library https://github.com/256dpi/arduino-mqtt as a zip file and include it to the sketch
+you need to download this library https://github.com/256dpi/arduino-mqtt as a zip file and include it to the sketch.
+NOTE: if there are problem with compatibility you can use the version uploaded in this repo : https://github.com/aug-bari/MPU6050viaMQTT
