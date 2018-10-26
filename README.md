@@ -2,8 +2,8 @@
 An ESP8266 Sketch used to read data from MPU6050 and transfer it via MQTT
 
 # Connectivity
-This sketch uses https://shiftr.io/ as MQTT broker:
-you have to: sign up, create a new namespace, go to namespace settings, add a token, use your token information to update your Arduino code and gain access to the namespace connection.
+This sketch uses https://shiftr.io/ as MQTT broker.
+You have to: sign up, create a new namespace, go to namespace settings, add a token, use your token information to update your Arduino code and gain access to the namespace connection.
 
 
 # Hardware
